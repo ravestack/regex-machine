@@ -1,3 +1,3 @@
 regex-machine v0.01
 
-Prototype for deriving a finite state machine from a regular expression.
+Non-VM specific prototype for deriving a finite state machine from a regular expression.

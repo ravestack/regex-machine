@@ -1,3 +1,4 @@
 (function() {
-	this.states = {};
+	this.statesObj = {};
+	this.flagsObj = {};
 }.call(this));
